@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\BlazorMealAndFit\\MealAndFitBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5447BE89-AE34-4393-A284-6605164E49C5}|MealAndFitBlazor\\MealAndFitBlazor.csproj|d:\\github\\blazormealandfit\\mealandfitblazor\\mealandfitblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447BE89-AE34-4393-A284-6605164E49C5}|MealAndFitBlazor\\MealAndFitBlazor.csproj|solutionrelative:mealandfitblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\BlazorMealAndFit\\MealAndFitBlazor\\MealAndFitBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "MealAndFitBlazor\\Program.cs",
+              "ToolTip": "D:\\Github\\BlazorMealAndFit\\MealAndFitBlazor\\MealAndFitBlazor\\Program.cs",
+              "RelativeToolTip": "MealAndFitBlazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T17:35:13.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
